@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BudgetApp
 The Budget App is a Java web application designed to facilitate personal finance management. Developed using Spring Boot and PostgreSQL, the app enables users to effortlessly track income and expenses, offering detailed monthly breakdowns and aggregated summaries for moths, quarters, half-years, and years. 
 
@@ -32,3 +33,6 @@ api/expenses/halfyearly-to get user's expense details for six months in total by
 api/expenses/yearly-to get user's expense details for a year in total by giving user id as RequestParam
 
 
+=======
+# Budget_App
+>>>>>>> e7c9ebc49f4e5bacf8e7483edeca53661bacbb64
