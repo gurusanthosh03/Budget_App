@@ -1,0 +1,6 @@
+package com.example.budget_app.enums;
+
+public enum Months {
+    JANUARY,FEBRUARY,MARCH,APRIL,MAY,JUNE,JULY,AUGUST,SEPTEMBER,OCTOBER,NOVEMBER,DECEMBER;
+
+}
